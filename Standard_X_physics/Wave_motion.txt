@@ -1,0 +1,52 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-10T18:24:08+05:30
+
+====== Wave motion ======
+Created Wednesday 10 April 2019
+
+What is a wave?
+What causes a wave? 
+What are transverse and longitudinal waves?
+How can we represent wave motion mathematically?
+Explain the production and transmission of sound.
+What are the properties that characterize a particular wave? 
+What is meant by resonance?
+What is meant by the reflection of a wave? 
+Explain multiple reflection, echo, reverberation in the case of sound. 
+Explain the applications of wave motion employed in the acoustics of buildings.
+What are seismic waves?
+
+--------------------
+What is a wave? 
+A wave is the propogation of a disturbance that moves in a periodic fashion.
+
+How are compressions and rarefactions made when sound travels? 
+What are the factors that can affect the motion of sound through a medium? 
+- density, (density can be affected by humidity, temperature, )
+ 
+https://science.howstuffworks.com/sound-info2.htm
+speed of sound is directly propotional to the elasticity of the medium and inversely to the density of the medium.
+
+How does humidity affect the density of air (or the medium) ?
+Water molecules (H2O, molecular weight 18) actually weigh less than oxygen or nitrogen molecules (which are O2, molecular weight around 32, and N2, molecular weight 28). Air is primarily nitrogen and oxygen. Each water molecule in the air displaces one molecule of "air". Consequently, the more humid the air, actually the less dense the air becomes - which some people think odd, but there we are. - Richard Miller, Addlestone, UK
+https://www.theguardian.com/notesandqueries/query/0,,-202025,00.html
+
+How can we visualize reflection in the case of a longitudinal wave? 
+
+https://brilliant.org/wiki/sound/
+What is meant by the persistence of audibility? 
+It has been found that the sensation of any sound lasts for of a second. This time is called the persistence of audibility or persistence of hearing. Thus, it is clear that if any sound reaches back to the ear in less than the mentioned time, we cannot make out when the original sound died and the reflected sound reached the ear. In other words, no echo is heard. But the observations is different in a contrary situation. 
+
+What are the conditions for formation of echoes?
+The minimum distance between the source of sound and the reflecting body should be  17m  normally because the speed of sound in air is normally 332m/s.
+The wavelength of sound should be less than the height of the reflecting body.
+The intensity of sound should be sufficient enough that it can be heard after reflection. 
+
+
+--------------------
+Illustration
+Resonance - Tachoma Narrows bridge
+
+References:
+1. Halliday and Resnick 2007 Extended Edition
