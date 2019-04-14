@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-13T20:00:08+05:30
+
+====== Electric current ======
+Created Saturday 13 April 2019
+
+What is meant by electrical energy? 
+What is meant by an electric current? Differentiate between static electricity and current electricity.
+How does current flow in a circuit? What do you mean by electric potential and potential difference? 
+What is a short circuit? Electric current chooses the path of least resistance.
+Where can you see the effects of electric current in nature? 
+Equation for electric current. What is the unit?  
+Where is electricity produced and how is it transmitted to our homes? 
+What is meant by electrical resistance?
+State Ohm's law.
+State Joule's law of heating.
+--------------------
+State the lighting effects of electricity.
+What are the qualities desirable for heating coils? 
+Explain the working of a safety fuse.
+What is the resistance of the human body?
+--------------------
+How does current flow in a circuit? 
+From a region of high concentration (potential) to a region of low potential. 
+It needs a closed path.
+What is a short circuit? Electric current chooses the path of least resistance.
+Drift velocity
+
+Applications
+Where can you see the effects of electric current in nature? 
+lightning, nerve impulses, static electricity, ECG and EEG.
+
+What is the purpose of a regulator in electrical appliances? 
+
+*List the different types of lighting sources seen in daily life.
+halogen lamps, neon lamps, led, cfl, tungsten bulb, sodium vapour lamp,
+
+Activity 
+Use dimmer switch see varying light intensity in a bulb. 
+Note down the voltage, amperage and power of common devices.
+Use a digital voltmeter to measure voltages.
