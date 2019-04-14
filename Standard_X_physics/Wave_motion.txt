@@ -16,6 +16,7 @@ What is meant by the natural frequency of an object?
 What is meant by resonance?
 What is meant by the reflection of a wave? 
 Explain multiple reflection, echo, reverberation in the case of sound. 
+What is meant by echolocation? 
 Explain the applications of wave motion employed in the acoustics of buildings.
 What are seismic waves?
 
@@ -24,7 +25,6 @@ What are seismic waves?
 What are some examples of sound with a single frequency? 
 What is the range of frequencies to which our ears are sensitive? 
 What are some of the applications of infrasonic and ultrasonic waves in nature and in technology?
-
 
 --------------------
 What is a wave? What causes a wave? 
@@ -45,26 +45,21 @@ Speed of a wave is the distance travelled by the wave in unit interval of time.
 	f = 1/T 
 	speed = frequency * wavelength
 
-
 What are the factors that can affect the motion of sound through a medium? 
 The speed of sound waves depends on the compressibility and inertia of the medium. 
 If the medium has a bulk modulus B  and density ρ , the speed of sound waves in that medium is √ (B/ρ)
-compare this expression with  the speed of  transverse waves on a string
+compare this expression with  the speed of  transverse waves on a string. The bulk modulus is related to the compressibility of the medium.
  In fact, the speed of all mechanical waves follows an expression of the general form
 	v = √(elastic property/inertial property)
 The speed of sound also depends on the temperature of the medium.
 
 
-The speed of sound through a medium depends on the properties of the medium.
-https://science.howstuffworks.com/sound-info2.htm
-speed of sound is directly propotional to the elasticity of the medium and inversely to the density of the medium.
-
 Problems
 
-Have you seen a wave created by spectators in an auditorium as them move up and down in unison? What kind of wave is that?
+Have you seen a wave created by spectators in an auditorium as they move up and down ? What kind of wave is that?
 If an alarm clock is placed in a glass chamber and activated and the chamber is connected to a vacuum pump which slowly removes the air from the chamber, what will you observe? 
 Why is the thunderclap heard long after the lightning is observed?
-1. Suppose that you hear a clap of thunder 16.2 s after seeing the associated lightning stroke. The speed of sound waves in air is 343 m/s, and the speed of light in air is 3.00 x 10^8 m/s. How far are you from the lightning stroke? 
+1. Suppose that you hear a clap of thunder 16.2 s after seeing the associated lightning stroke. The speed of sound waves in air is 343 m/s, and the speed of light in air is 3.00 x 10^8 m/s. How far are you from the lightning stroke?  Ans: 5.56 km
 2. Find the speed of sound in mercury, which has a bulk modulus of approximately 2.80 x 10^10 N/m2 and a density of 13 600 kg/m3.
 3. A flower pot is knocked off a balcony 20.0 m above the sidewalk and falls toward an unsuspecting 1.75-m-tall man who is standing below. How close to the sidewalk can the flower pot fall before it is too late for a shouted warning from the balcony to reach the man in time? Assume that the man below requires 0.300 s to respond to the warning.
 --------------------
@@ -92,6 +87,13 @@ The intensity of sound should be sufficient enough that it can be heard after re
 
 Illustration
 Resonance - Tachoma Narrows bridge
+Reverberating sound
+oscilloscope apps
+
+Activity
+Verify the law of reflection of sound.
 
 References:
 1. Halliday and Resnick 2007 Extended Edition
+2. College Physics by Rice University
+3. https://science.howstuffworks.com/sound-info2.ht[[https://science.howstuffworks.com/sound-info2.htm|m]]
